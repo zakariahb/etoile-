@@ -23,7 +23,7 @@ void main ()
         while(j <= i)
         {
             printf("*");
-            j--;
+            j++;
         }
         printf("\n");
         i--;
